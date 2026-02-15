@@ -1,0 +1,13 @@
+[hosts]
+app = "https://better-dice.com"
+api = "https://better-dice.com/api"
+events = "wss://better-dice.com/ws"
+autumn = "https://better-dice.com/autumn"
+january = "https://better-dice.com/january"
+
+[pushd.vapid]
+private_key = ""
+public_key = ""
+
+[files]
+encryption_key = "ILlJw7pjlKqqWZKnE7vGG9XYfhQBE9zF/3G2cNcgLyc="
