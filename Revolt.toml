@@ -1,9 +1,9 @@
 [hosts]
-app = "https://better-dice.com"
-api = "https://better-dice.com/api"
-events = "wss://better-dice.com/ws"
-autumn = "https://better-dice.com/autumn"
-january = "https://better-dice.com/january"
+app = "https://the-day-of-reckoning-communication-suite-5c19ff-95-217-110-46.traefik.me"
+api = "https://the-day-of-reckoning-communication-suite-5c19ff-95-217-110-46.traefik.me/api"
+events = "wss://the-day-of-reckoning-communication-suite-5c19ff-95-217-110-46.traefik.me/ws"
+autumn = "https://the-day-of-reckoning-communication-suite-5c19ff-95-217-110-46.traefik.me/autumn"
+january = "https://the-day-of-reckoning-communication-suite-5c19ff-95-217-110-46.traefik.me/january"
 
 [pushd.vapid]
 private_key = ""
